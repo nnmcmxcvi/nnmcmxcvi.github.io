@@ -454,7 +454,16 @@ header {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  position: relative; }
+  position: relative; 
+  
+}
+
+.services-img {
+  margin-top: 220px;
+  margin-left: 20px;
+  max-height: 600px;
+  max-width: 400px;
+}
 
 .progress-head {
   font-size: 22px; }
