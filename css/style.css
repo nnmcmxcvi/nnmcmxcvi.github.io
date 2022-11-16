@@ -790,6 +790,28 @@ header {
         height: 1px;
         background: #000; }
 
+
+
+
+
+#test {
+  color: #000;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 12px;
+  position: relative;
+  text-align: right;
+  
+}
+
+#test2 {
+  display: inline-block;
+  content: "";
+  border-top: .2rem solid black;
+  width: 2rem;
+  padding-bottom: .22rem;
+  margin: 0 1rem;
+}
 #colorlib-blog .owl-carousel {
   z-index: 0; }
 
